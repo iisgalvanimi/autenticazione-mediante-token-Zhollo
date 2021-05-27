@@ -1,6 +1,4 @@
 
 
-npm run  devStart
-npm run  devStartAuth
-npm run  devClient
+node src/app/Client.js
 
